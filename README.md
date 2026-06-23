@@ -1,4 +1,5 @@
 # Pizza Sales Analysis Using SQL
+Author - Suraj Aggarwal 
 
 ## Overview
 Analyzed pizza sales data using SQL to identify sales trends and business insights.
